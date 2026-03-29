@@ -28,4 +28,3 @@ Emphasis is on building models in Python using PyTorch. The course also covers:
 - AI agents  
 - Retrieval augmented generation (RAG)  
 
-> Arizona State University - Spring 2026
