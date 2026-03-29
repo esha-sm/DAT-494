@@ -27,3 +27,5 @@ Emphasis is on building models in Python using PyTorch. The course also covers:
 - Transfer learning with pre-trained models  
 - AI agents  
 - Retrieval augmented generation (RAG)  
+
+> Arizona State University - Spring 2026
